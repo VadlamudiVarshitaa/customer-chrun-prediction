@@ -4,10 +4,10 @@
 # How to Use the Code
 
 To use the code in this repository, follow these steps:
-. Clone the repository to your local machine
-. Navigate to the cloned repository
-. Ensure you have the required Python libraries installed. You can install the necessary dependencies using
-. Open the Jupyter Notebook
+. Clone the repository to your local machine.
+. Navigate to the cloned repository.
+. Ensure you have the required Python libraries installed. You can install the necessary dependencies using.
+. Open the Jupyter Notebook.
 . Follow the instructions in the customer_churn.ipynb notebook to load the dataset (telecom_customer_churn.csv), preprocess the data, and build the predictive model.
 
 # Key Features
