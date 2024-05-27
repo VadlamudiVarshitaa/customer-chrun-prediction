@@ -19,5 +19,4 @@ To use the code in this repository, follow these steps:
 - Prediction: Generating predictions on new data to identify potential churners.
 
 # Contact
-Name: V. Varshitaa
-Email: varshitaa21@gmail.com
+For any inquiries or further information, please contact: Name: V. Varshitaa Email: varshitaa21@gmail.com
