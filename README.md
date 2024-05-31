@@ -1,6 +1,5 @@
 # Customer Churn Prediction
-
-        Customer Churn Prediction for a Subscription Service This project focuses on predicting customer churn for a subscription-based service using machine learning techniques. Customer churn refers to the loss of clients or customers, and it is crucial for businesses to identify potential churners to take preemptive measures to retain them. The dataset used in this project includes customer demographics, usage data, and a churn indicator. The predictive model built in this project helps in identifying customers who are likely to churn, enabling businesses to strategize and improve customer retention.
+  Customer Churn Prediction for a Subscription Service This project focuses on predicting customer churn for a subscription-based service using machine learning techniques. Customer churn refers to the loss of clients or customers, and it is crucial for businesses to identify potential churners to take preemptive measures to retain them. The dataset used in this project includes customer demographics, usage data, and a churn indicator. The predictive model built in this project helps in identifying customers who are likely to churn, enabling businesses to strategize and improve customer retention.
 
 # How to Use the Code
 
